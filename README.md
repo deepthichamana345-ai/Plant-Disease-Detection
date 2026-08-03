@@ -118,6 +118,11 @@ Plant-Disease-Detection/
 - Farmer Assistance Systems
 
 ---
+## Model File
+
+The trained ViT model (`plant_vit_base.pth`) is not included in this repository because it exceeds GitHub's file size limit.
+
+To run the project, place the trained model file in the project directory before running the notebook.
 
 ## 👩‍💻 Author
 
