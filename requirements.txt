@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+transformers
+accelerate
+bitsandbytes
+flask
+pyngrok
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scikit-learn
